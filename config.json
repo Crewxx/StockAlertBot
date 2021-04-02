@@ -34,5 +34,6 @@
     ],
     "PROXIES": false,
     "EMAIL": false,
+    "DESKTOP": true,
     "SMS_METHOD": "None"
 }
